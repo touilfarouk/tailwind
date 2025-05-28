@@ -4,7 +4,7 @@
 
 ## 🔍 Aperçu
 
-tout en respectant l’esthétique de la capture fournie (centré, carte blanche, bord arrondi, ombre, responsive, etc.)
+Tout en respectant l’esthétique de la capture fournie (centré, carte blanche, bord arrondi, ombre, responsive, etc.)
 Cliquez sur **"stylisée avec Tailwind"** 
 
 
